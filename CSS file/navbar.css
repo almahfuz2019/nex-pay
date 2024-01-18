@@ -1,0 +1,44 @@
+#fullNavbar {
+  display: flex;
+  align-items: center;
+  margin: 0px 160px;
+  justify-content: space-between;
+  padding-top: 30px;
+}
+#navItems ul li a {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+  line-height: 24px;
+}
+#navItems ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+#navItems ul li {
+  list-style: none;
+  margin-left: 30px;
+}
+
+#signIn-and-getYourCardBtn a {
+  color: #222;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+  margin-right: 40px;
+}
+#signIn-and-getYourCardBtn button {
+  height: 50px;
+  padding: 16px 20px;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 10px;
+  background: #0b0b0b;
+  border: 0px;
+}

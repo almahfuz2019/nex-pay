@@ -1,0 +1,147 @@
+#full-features-section {
+  background-color: #f6f9fc;
+  display: flex;
+  align-items: center;
+  padding-top: 81px;
+  padding-bottom: 85px;
+  padding-right: 136px;
+}
+#full-features-section-magerment {
+  margin-left: 273px;
+  margin-right: 91px;
+  width: 47%;
+}
+.single-feature {
+  display: flex;
+  align-items: center;
+  margin-bottom: 39px;
+  justify-content: space-between;
+}
+#bank-card {
+  display: flex;
+  align-items: center;
+  width: 147.864px;
+}
+#bank-card img {
+  padding: 9.776px;
+  border-radius: 14.664px;
+  background: var(--icon-01, #008eff);
+}
+#bank-card p {
+  color: var(--Light-Theme-Grayscale-Gray-100, #1e1e20);
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Poppins;
+  font-size: 17.108px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 140%;
+  margin-left: 30px;
+}
+#file-paper {
+  display: flex;
+  align-items: center;
+  width: 222.407px;
+}
+#file-paper img {
+  padding: 9.776px;
+  border-radius: 14.664px;
+  background: var(--icon-01, #fabb18);
+}
+#file-paper p {
+  color: var(--Light-Theme-Grayscale-Gray-100, #1e1e20);
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Poppins;
+  font-size: 17.108px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 140%;
+  margin-left: 30px;
+}
+#unipay {
+  display: flex;
+  align-items: center;
+  width: 240.737px;
+}
+#unipay img {
+  padding: 9.776px;
+  border-radius: 14.664px;
+  background: var(--icon-01, #f23936);
+}
+#unipay p {
+  color: var(--Light-Theme-Grayscale-Gray-100, #1e1e20);
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Poppins;
+  font-size: 17.108px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 140%;
+  margin-left: 30px;
+  margin-top: 11px;
+}
+#full-card {
+  border-radius: 21px;
+  background: #fff;
+}
+#card {
+  padding-left: 131px;
+  padding-right: 131px;
+}
+#cashback {
+  color: var(--White-Theme-Gray---9, #262631);
+  font-family: Poppins;
+  font-size: 13.949px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 13.949px; /* 100% */
+  letter-spacing: -0.126px;
+  padding-top: 29px;
+}
+#amount {
+  color: var(--White-Theme-Gray---8, #2e2e3a);
+  font-family: Poppins;
+  font-size: 24.41px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30.166px; /* 123.58% */
+  margin-top: 6px;
+}
+#amount span {
+  color: var(--Accents-Verdepom, #24ca49);
+  font-family: Poppins;
+  font-size: 13.949px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24.41px; /* 175% */
+  letter-spacing: -0.126px;
+  margin-left: 8px;
+}
+#compared-to-last-month {
+  color: var(--White-Theme-Gray---6, #656575);
+  font-family: Poppins;
+  font-size: 12.205px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 13.949px;
+  margin-top: 6.49px;
+  margin-bottom: 22px;
+}
+#card-heading {
+  color: var(--gray-900, #18181b);
+  font-family: Bebas Neue;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 48px;
+  margin-top: 11px;
+  letter-spacing: 2px;
+}
+#card-descraption {
+  color: var(--Black, #12141d);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+  opacity: 0.7;
+  margin-bottom: 30px;
+}

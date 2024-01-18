@@ -1,0 +1,87 @@
+#full-service-part {
+  background-color: #131313;
+  padding: 90px 160px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+#solve-problems-real-time {
+  border-right: 1px solid rgba(255, 255, 255, 0.15);
+
+  margin-right: 57px;
+}
+#solve-problems-real-time div {
+  margin-right: 57px;
+}
+#solve-problems-real-time img {
+  margin-bottom: 30px;
+}
+#solve-problems-real-time h1 {
+  color: var(--White, #fff);
+  font-family: Bebas Neue;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+  letter-spacing: 2px;
+}
+#solve-problems-real-time p {
+  opacity: 0.7;
+  color: var(--White, #fafafa);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
+#secured-safe-payments {
+  border-right: 1px solid rgba(255, 255, 255, 0.15);
+  margin-right: 57px;
+}
+#secured-safe-payments div {
+  margin-right: 57px;
+}
+#secured-safe-payments img {
+  margin-bottom: 30px;
+}
+#secured-safe-payments h1 {
+  color: var(--White, #fff);
+  font-family: Bebas Neue;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+  letter-spacing: 2px;
+}
+#secured-safe-payments p {
+  opacity: 0.7;
+  color: var(--White, #fafafa);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
+#customer-support img {
+  margin-bottom: 30px;
+}
+#customer-support h1 {
+  color: var(--White, #fff);
+  font-family: Bebas Neue;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+  letter-spacing: 2px;
+}
+#customer-support p {
+  opacity: 0.7;
+  color: var(--White, #fafafa);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}

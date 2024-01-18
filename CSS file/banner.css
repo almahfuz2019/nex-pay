@@ -1,0 +1,109 @@
+#fullBanner {
+  display: flex;
+  margin-left: 152px;
+  margin-right: 152px;
+  margin-top: 129px;
+  justify-content: space-between;
+  align-items: center;
+}
+#heading {
+  color: #fff;
+  font-family: Bebas Neue;
+  font-size: 80px;
+  font-style: normal;
+  letter-spacing: 4px;
+  color: #fff;
+  font-family: Bebas Neue;
+  font-size: 80px;
+  font-weight: 700;
+  line-height: 80px;
+}
+#descraption {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  margin-top: 36px;
+  margin-bottom: 36px;
+  opacity: 0.7;
+  letter-spacing: 1px;
+}
+#GetYourCardBtn {
+  width: 185px;
+  height: 61px;
+  color: #12141d;
+  text-align: center;
+  font-family: Bebas Neue;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px;
+  border-radius: 15px;
+  background: #fff;
+  border: 0px;
+  letter-spacing: 1px;
+  margin-bottom: 36px;
+}
+#basic-info-full-section {
+  display: flex;
+  align-items: center;
+  margin-bottom: 165px;
+}
+#basic-info-left-section {
+  display: flex;
+  align-items: center;
+  gap: 49px;
+}
+#basic-info-left-section h2 {
+  color: #fff;
+  font-family: Bebas Neue;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 52px;
+  letter-spacing: 3px;
+}
+#basic-info-left-section p {
+  color: #fff;
+  letter-spacing: 1px;
+  font-family: Bebas Neue;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+}
+#basic-info-section-border {
+  border-right: 1px solid #0b0b0b;
+  opacity: 0.3;
+  width: 1px;
+  height: 31px;
+  margin: 0px 71px 0px 27px;
+}
+#basic-info-right-section {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+#basic-info-right-section h1 {
+  color: #fff;
+  font-family: Bebas Neue;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 52px;
+  letter-spacing: 3px;
+}
+#basic-info-right-section p {
+  color: #fff;
+  font-family: Bebas Neue;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 1px;
+}
+#banner-Model{
+     margin-top: 9px;
+}
