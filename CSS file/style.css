@@ -1,9 +1,9 @@
 body {
   margin: 0px;
 
-  /* width: 1600px; */
+  width: 1600px;
   /* use width 1600px (according to figma file) or (use width: 100% ; with 80% browser size ); */
-  width: 100%;
+  /* width: 100%; */
 }
 * {
   padding: 0;

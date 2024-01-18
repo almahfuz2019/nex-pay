@@ -104,6 +104,12 @@
   line-height: 22px;
   letter-spacing: 1px;
 }
-#banner-Model{
-     margin-top: 9px;
+#banner-Model {
+  margin-top: 9px;
+}
+#visa-card {
+  position: absolute;
+  left: 70px;
+  bottom: 45px;
+  border-radius: 20px;
 }
